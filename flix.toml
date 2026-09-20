@@ -1,6 +1,6 @@
 [package]
 name        = "museum-restaurant"
-version     = "2.0.0"
+version     = "2.0.1"
 flix        = "0.76.2"
 repository  = "github:flix/museum-restaurant"
 
